@@ -30,9 +30,11 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 *If the output is 1, then the led glows.
 ## Program:
 ```
+Developed by: Krishna Prasad.S
+RegisterNumber:  23013480
+```
+```
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: DHARSHAN D
-RegisterNumber:  23001663
 1. Program to design a half subtractor:
 module ex4(a,b,diff,borr);
 input a,b;
@@ -51,18 +53,24 @@ endmodule
 ## OUTPUT:
 ## Truthtable:
 ## HALF SUBTRACTOR:
-![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/8c7c2108-82eb-4d03-a164-766a02b4e78e)
+![image](https://github.com/KrishnaPrasad148/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147332763/f5185b2c-156d-46e5-8306-f99cdf96a5d7)
+
 ## FULL SUBTRACTOR:
-![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/1b8921ff-558d-44fe-bde0-4678d0391978)
+![image](https://github.com/KrishnaPrasad148/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147332763/c806504a-a618-484b-9504-adda901f1767)
+
 ## RTL realization:
 ## HALF SUBTRACTOR:
-![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/6c983604-445d-4648-890c-48740414f01e)
+![image](https://github.com/KrishnaPrasad148/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147332763/a3c09476-eef0-40c4-b537-4c0ec7eea2ab)
+
 ## FULL SUBTRACTOR:
-![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/a4f49bde-4083-4c14-b74f-2ce04c24e7ab)
-## Timing diagram:
+![image](https://github.com/KrishnaPrasad148/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147332763/90141d22-429c-4025-b177-98bda8747a3d)
+
+## Timing Diagram:
 ## HALF SUBTRACTOR:
-![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/53f37e09-eb35-4e29-909e-25a3eeb72a0e)
+![image](https://github.com/KrishnaPrasad148/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147332763/396ab029-3764-4e0d-ad73-3546eb4cb2b5)
+
 ## FULL SUBTRACTOR:
-![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/cdfd6a13-e4af-4cd1-b9fa-8c82df0e8c21)
+![image](https://github.com/KrishnaPrasad148/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147332763/53080c8f-74cf-4171-b466-b60ce24b2ff3)
+
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
